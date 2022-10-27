@@ -1,0 +1,496 @@
+
+RedHatOfficial
+/
+RedHatOfficial.github.io
+Public
+Code
+Issues
+14
+Pull requests
+7
+Actions
+Projects
+Security
+Insights
+RedHatOfficial.github.io/app/data/projects.json
+@FrostyX
+FrostyX Add Copr project
+…
+ 120 contributors
+2811 lines (2810 sloc)  97.2 KB
+[
+  {
+    "projectName": "abrt",
+    "projectDescription": "Automatic bug detection and reporting tool",
+    "projectRepository": "https://github.com/abrt",
+    "projectWebsite": "https://abrt.readthedocs.org/en/latest/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "AeroGear",
+    "projectDescription": "Making cross-platform enterprise mobile development easy",
+    "projectRepository": "https://github.com/aerogear",
+    "projectWebsite": "https://aerogear.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "aeshell",
+    "projectDescription": "Write command-based java programs",
+    "projectRepository": "https://github.com/aeshell",
+    "projectWebsite": "http://aeshell.github.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Apache Camel",
+    "projectDescription": "Camel empowers you to define routing and mediation rules in a variety of domain-specific languages",
+    "projectRepository": "https://github.com/apache/camel",
+    "projectWebsite": "https://camel.apache.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Apache DeltaSpike",
+    "projectDescription": "Consists of a number of portable CDI extensions that provide useful features for Java application developers",
+    "projectRepository": "https://github.com/apache/deltaspike",
+    "projectWebsite": "https://deltaspike.apache.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Apache Qpid",
+    "projectDescription": "Makes messaging tools that speak AMQP and support many languages and platforms.",
+    "projectRepository": "https://github.com/apache/qpid",
+    "projectWebsite": "https://qpid.apache.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Apache Tomcat",
+    "projectDescription": "An open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies",
+    "projectRepository": "https://github.com/apache/tomcat",
+    "projectWebsite": "https://tomcat.apache.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Avocado",
+    "projectDescription": "A testing framework with benefits.",
+    "projectRepository": "https://github.com/avocado-framework",
+    "projectWebsite": "https://avocado-framework.github.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "awestruct",
+    "projectDescription": "Static site baking and deployment tool written in Ruby",
+    "projectRepository": "https://github.com/awestruct",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "buildah",
+    "projectDescription": "A tool for building OCI container images",
+    "projectRepository": "https://github.com/projectatomic/buildah/",
+    "projectWebsite": "https://buildah.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "CEKit",
+    "projectDescription": "Container image creation tool",
+    "projectRepository": "https://github.com/cekit/cekit/",
+    "projectWebsite": "https://cekit.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "CentOS CI",
+    "projectDescription": "CI/CD solutions running in containerized pipelines inside OpenShift in CentOS CI",
+    "projectRepository": "https://github.com/CentOS-PaaS-SIG",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Ceylon",
+    "projectDescription": "A language for writing large programs in teams.",
+    "projectRepository": "https://github.com/ceylon",
+    "projectWebsite": "https://ceylon-lang.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "containers/image",
+    "projectDescription": "A library for working with container images",
+    "projectRepository": "https://github.com/containers/image",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "containers/storage",
+    "projectDescription": "A library for storing and mounting container images",
+    "projectRepository": "https://github.com/containers/storage",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "convert2rhel",
+    "projectDescription": "A tool to automate converting Oracle/CentOS/Scientific/Rocky/Alma Linux to Red Hat Enterprise Linux.",
+    "projectRepository": "https://github.com/oamg/convert2rhel/",
+    "category": "Platform",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "crash",
+    "projectDescription": "The Linux kernel crash utility",
+    "projectRepository": "https://github.com/crash-utility",
+    "projectWebsite": "https://crash-utility.github.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Cryostat",
+    "projectDescription": "JFR management for JVMs in the cloud",
+    "projectRepository": "https://github.com/cryostatio",
+    "projectWebsite": "https://cryostat.io",
+    "category": "Middleware",
+    "twitterHandle": "",
+    "twitterURL": ""
+  },
+  {
+    "projectName": "Checkpoint/Restore In Userspace",
+    "projectDescription": "A tool for checkpoint and restore of running applications",
+    "projectRepository": "https://github.com/checkpoint-restore/criu",
+    "projectWebsite": "https://criu.org",
+    "category": "Development",
+    "twitterHandle": "@__criu__",
+    "twitterURL": "https://twitter.com/__criu__"
+  },
+  {
+    "projectName": "DBuildService",
+    "projectDescription": "Python library for parsing Dockerfile files.",
+    "projectRepository": "https://github.com/DBuildService",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "DCI",
+    "projectDescription": "Extend the Red Hat CI systems through our walls",
+    "projectRepository": "https://github.com/redhat-cip/dci-control-server/",
+    "projectWebsite": "https://www.distributed-ci.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "dmpy",
+    "projectDescription": "Device-mapper Python bindings",
+    "projectRepository": "https://github.com/bmr-cymru/dmpy",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "dumpet",
+    "projectDescription": "Tool for debugging and verifying El Torito boot data on CD-like images",
+    "projectRepository": "https://github.com/rhboot/dumpet",
+    "projectWebsite": "https://github.com/rhboot/dumpet",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Dynist Project",
+    "projectDescription": "The Paradyn Performance Consultant",
+    "projectRepository": "https://github.com/dyninst",
+    "projectWebsite": "http://www.dyninst.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Eclipse Che",
+    "projectDescription": "Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.",
+    "projectRepository": "https://github.com/eclipse/che",
+    "projectWebsite": "https://eclipse.org/che",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Eclipse Hono",
+    "projectDescription": "Eclipse Hono provides uniform (remote) service interfaces for connecting large numbers of IoT devices to a (cloud) back end.",
+    "projectRepository": "https://github.com/eclipse/hono",
+    "projectWebsite": "https://eclipse.org/hono",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Eclipse JKube",
+    "projectDescription": "Cloud-Native Java Applications without a hassle. Eclipse JKube is a collection of plugins and libraries that are used for building container images using Docker, JIB or S2I build strategies. Eclipse JKube generates and deploys Kubernetes/OpenShift manifests at compile time too. It brings your Java applications on to Kubernetes and OpenShift by leveraging the tasks required to make your application cloud-native.",
+    "projectRepository": "https://github.com/eclipse/jkube",
+    "projectWebsite": "https://www.eclipse.org/jkube/",
+    "category": "Development"
+  },
+  {
+    "projectName": "Eclipse Vert.x",
+    "projectDescription": "Eclipse Vert.x is a tool-kit for building reactive applications on the JVM.",
+    "projectRepository": "https://github.com/vert-x3",
+    "projectWebsite": "https://vertx.io",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Eclipse Web Tools Project",
+    "projectDescription": "Eclipse plugins for Web, JavaEE development",
+    "projectRepository": "https://github.com/eclipse?q=webtools",
+    "projectWebsite": "https://www.eclipse.org/webtools/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Errai Framework",
+    "projectDescription": "Build web applications",
+    "projectRepository": "https://github.com/errai",
+    "projectWebsite": "http://erraiframework.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "fabric8",
+    "projectDescription": "Development platform for kubernetes",
+    "projectRepository": "https://github.com/fabric8io",
+    "projectWebsite": "http://fabric8.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Fedora Developer Portal",
+    "projectDescription": "Portal for developers using Fedora as a workstation or a deployment platform",
+    "projectRepository": "https://github.com/developer-portal",
+    "projectWebsite": "https://developer.fedoraproject.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Gluetool",
+    "projectDescription": "Gluetool is a Python command-line framework; glue for your tools and libraries￼",
+    "projectRepository": "https://github.com/gluetool/gluetool",
+    "projectWebsite": "https://gluetool.readthedocs.io",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "hwdata",
+    "projectDescription": "Hardware identification and configuration data",
+    "projectRepository": "https://github.com/vcrhonek/hwdata",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Immutant",
+    "projectDescription": "A cohesive suite of Clojure libraries",
+    "projectRepository": "https://github.com/immutant",
+    "projectWebsite": "http://immutant.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "IronJacamar",
+    "projectDescription": "An implementation of the Java EE Connector Architecture 1.7 specification",
+    "projectRepository": "https://github.com/oloake/IronJacamar",
+    "projectWebsite": "http://www.ironjacamar.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Jaeger",
+    "projectDescription": "CNCF OpenTracing compliant distributed tracing system",
+    "projectRepository": "https://github.com/jaegertracing",
+    "projectWebsite": "http://jaegertracing.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "JBeret",
+    "projectDescription": "A standard-based, lightweight and scalable Java batch processing framework",
+    "projectRepository": "https://github.com/jberet",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "JBoss Tools",
+    "projectDescription": "Eclipse plugins for JBoss, Fuse, OpenShift",
+    "projectRepository": "https://github.com/jbosstools",
+    "projectWebsite": "https://tools.jboss.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "JRuby",
+    "projectDescription": "Ruby programming language on the JVM",
+    "projectRepository": "https://github.com/jruby",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "kpatch",
+    "projectDescription": "A Linux dynamic kernel patching infrastructure",
+    "projectRepository": "https://github.com/dynup/kpatch",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+   "projectName": "Kubernetes",
+   "projectDescription": "An open-source system for automating deployment, scaling, and management of containerized applications",
+   "projectRepository": "https://github.com/kubernetes",
+   "projectWebsite": "https://kubernetes.io/",
+   "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+   "projectName": "Knative",
+   "projectDescription": "Kubernetes-based platform to deploy and manage modern serverless workloads",
+   "projectRepository": "https://github.com/knative",
+   "projectWebsite": "https://knative.dev/",
+   "category": "Development"
+  },
+  {
+    "projectName": "KubeVirt",
+    "projectDescription": "Enables developers to  bring existing virtual machines into their applications running on Kubernetes and OpenShift clusters",
+    "projectRepository": "https://github.com/kubevirt",
+    "projectWebsite": "https://kubevirt.github.io",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Lago",
+    "projectDescription": "Ad-hoc virtual testing environment framework",
+    "projectRepository": "https://github.com/lago-project",
+    "projectWebsite": "http://lago.readthedocs.org/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+   "projectName": "libpod",
+   "projectDescription": "Library for creating, running, and managing Linux containers",
+   "projectRepository": "https://github.com/projectatomic/libpod/",
+   "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Lightblue Platform",
+    "projectDescription": "Cloud focused data services with dynamic querying, versioned schemas, and robust security.",
+    "projectRepository": "https://github.com/lightblue-platform",
+    "projectWebsite": "https://www.lightblue.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Linux Audit Project",
+    "projectDescription": "Audit tools for the Linux kernel",
+    "projectRepository": "https://github.com/linux-audit",
+    "projectWebsite": "https://people.redhat.com/sgrubb/audit/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "linux-system-roles",
+    "projectDescription": "A collection of Ansible roles and modules",
+    "projectRepository": "https://github.com/linux-system-roles",
+    "projectWebsite": "https://linux-system-roles.github.io",
+    "category": "Operations",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "ManageIQ-Exchange",
+    "projectDescription": "Management Spins platform",
+    "projectRepository": "https://github.com/ManageIQ-Exchange/",
+    "projectWebsite": "https://manageiq-exchange.github.io/manageiq-exchange/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+  "projectName": "Maistra",
+  "projectDescription": "Service mesh for OpenShift based on Istio.",
+  "projectRepository": "https://github.com/maistra",
+  "projectWebsite": "http://maistra.io",
+  "category": "Middleware"
+  },
+  {
+    "projectName": "Medik8s",
+    "projectDescription": "Medik8s is a project consists of several kubernetes operators that provide automatic node remediation and high availability for singleton workloads",
+    "projectRepository": "https://github.com/medik8s",
+    "projectWebsite": "https://www.medik8s.io/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "Minishift",
+    "projectDescription": "Run Openshift Locally",
+    "projectRepository": "https://github.com/minishift/minishift",
+    "projectWebsite": "https://www.openshift.org/minishift/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "navmazing",
+    "projectDescription": "Python based navigation library for UIs",
+    "projectRepository": "https://github.com/RedHatQE/navmazing/",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
+  },
+  {
+    "projectName": "NET Core",
+    "projectDescription": "Open source and cross platform implementation of .NET",
+    "projectRepository": "https://github.com/dotnet",
+    "projectWebsite": "https://www.microsoft.com/net",
+    "category": "Development",
+		"twitterHandle": "",
+		"twitterURL": ""
